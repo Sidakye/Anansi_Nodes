@@ -1,4 +1,4 @@
-# Depicitons and concepts of the Node Network System
+# Depictions and concepts of the Node Network System
 
 # Tools used in the process are listed below
 
